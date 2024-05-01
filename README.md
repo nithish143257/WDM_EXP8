@@ -107,10 +107,10 @@ visualize_product_data(products)
 
 ### Output:
 
-![1](https://github.com/KeerthikaNagarajan/WDM_EXP8/assets/93427089/41fa4b2a-7c03-4821-875c-c69423fb88a2)
+![image](https://github.com/nithish143257/WDM_EXP8/assets/113762839/bea2d7ad-8bac-4f76-bc0c-b8e593780401)
 
 
-![2](https://github.com/KeerthikaNagarajan/WDM_EXP8/assets/93427089/97768c18-b5e0-42f6-9715-01d2b2c33049)
+![image](https://github.com/nithish143257/WDM_EXP8/assets/113762839/eae091df-1d43-4634-b7de-3d98974d6c10)
 
 
 ### Result:
